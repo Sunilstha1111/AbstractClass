@@ -1,0 +1,1 @@
+This package has a car, plane, and boat classes that inherits from VehicleAbstract class. The VehicleApp program instantiates two different car objects, 1 plane object, and 1 boat objectand calls from the main class which is VehicleAbstract class.
